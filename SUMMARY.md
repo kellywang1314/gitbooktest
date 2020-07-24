@@ -1,5 +1,5 @@
 
-## @types
+### 目录树主标题
 
-- [char1](doc/char1)
-- [char1](doc/char2)
+- [char1](docs/char1.md)
+- [char2](docs/char2.md)
