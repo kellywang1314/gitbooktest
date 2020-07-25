@@ -7,8 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "gitbook serve",
-    "build-doc": "gitbook install && rimraf _book && gitbook build "
+    "start:docs": "gitbook serve",
+    "build:docs": "gitbook install && rimraf _book && gitbook build "
   },
   "repository": {
     "type": "git",
