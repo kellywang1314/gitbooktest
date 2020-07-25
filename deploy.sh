@@ -10,5 +10,5 @@ cd ./_book
 git add -A
 git commit -m '更新文档'
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:kellywang1314/vuepresstest.git master:gh-pages
+git push -f git@github.com:kellywang1314/gitbooktest.git master:gh-pages
 rm -rf ./_book
